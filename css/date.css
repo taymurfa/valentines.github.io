@@ -2,8 +2,8 @@ body {
   text-align: center;
   margin-top: 30px;
   font-family: "Courier";
-  background-color: #fff5e4;
-  color: #ff9494;
+  background-color: #E2E0C8;
+  color: #A7B49E;
   display: flex;
   flex-direction: column;
 }
@@ -33,17 +33,17 @@ form .header {
   margin: 10px;
   font-family: "courier";
   margin-bottom: 10px;
-  background-color: #ffe3e1;
-  color: #e67373;
+  background-color: #b1bea8;
+  color: #5C7285;
   border-radius: 12px;
-  border: 2px solid #ffe3e1;
+  border: 2px solid #b1bea8;
   transition: 0.3s;
 }
 
 .button:hover {
-  background-color: #ff9494;
-  color: #ffe3e1;
-  border: 2px solid #ff9494;
+  background-color: #bdcab3;
+  color: #485866;
+  border: 2px solid #bdcab3;
 }
 
 input[type="date"] {
@@ -53,8 +53,8 @@ input[type="date"] {
   margin: 10px;
   font-family: "courier";
   margin-bottom: 10px;
-  background-color: #ffe3e1;
-  color: #e67373;
+  background-color: #b1bea8;
+  color: #5C7285;
   border-radius: 12px;
-  border: 2px solid #ffe3e1;
+  border: 2px solid #b1bea8;
 }
